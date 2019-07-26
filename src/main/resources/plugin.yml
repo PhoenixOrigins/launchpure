@@ -1,0 +1,11 @@
+name: launchpure
+main: com.phoenixorigins.launchpure.Launchpure
+version: 1.0
+author: jstnf
+description: Away he goes...
+
+commands:
+  launchpure:
+    description: Away he goes...
+  togglelaunchpure:
+    description: Toggle the madness.
